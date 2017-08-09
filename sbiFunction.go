@@ -7,7 +7,7 @@ import (
 	"fmt"
 	
 	"github.com/hyperledger/fabric/core/chaincode/shim"
-    sbiStruct "github.com/RathikaSnowflake/SBIStruct1/biStruct"
+    sbiStruct "github.com/RathikaSnowflake/SBIStruct1/sbiStruct"
 )
 
 // transaction will implement the processes
